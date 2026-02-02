@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle
+/target/
+/build/
+
+# IntelliJ
+/.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# JetBrains
+out/
+
+# Windows
+Thumbs.db
+
+# Others
+*.class
+bin/
